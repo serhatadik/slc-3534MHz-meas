@@ -21,7 +21,7 @@ If you use this data in your research, please cite it:
 
 ```
 @misc{tadikmeas2024,
-    author       = "Tadik, S. and Singh, A. and Mitchell, F. and Yao, X. and Hu, Y. and Webb, K. and Sarbhai, A. and Maas, D. and Orange, A. and Van der Merwe, J. and Patwari, N. and Ji, M. and Kasera, Sneha K. and Bhaskara, A. and Durgin, Gregory D.",
+    author       = "Tadik, S. and Singh, A. and Mitchell, F. and Hu, Y. and Yao, X. and Webb, K. and Sarbhai, A. and Maas, D. and Orange, A. and Van der Merwe, J. and Patwari, N. and Ji, M. and Kasera, Sneha K. and Bhaskara, A. and Durgin, Gregory D.",
     title        = "Salt Lake City 3534 MHz Multi-Transmitter Measurement Campaign",
     year         = "2024",
     month        = "March",
