@@ -15,3 +15,16 @@ The main data is stored under the key "pow_rx_tx", and it comprises five numeric
 5. Transmitter Longitude
 
 The metadata section of the JSON file focuses on a singular piece of information associated with each timestamp. Specifically, it denotes the mode of data collection for the corresponding file, indicating whether the data was gathered while the collector was walking or driving.
+
+## Citation
+
+```
+@misc{tadikmeas2024,
+    author       = "Tadik, S. and Singh, A. and Mitchell, F. and Yao, X. and Hu, Y. and Webb, K. and Sarbhai, A. and Maas, D. and Orange, A. and Van der Merwe, J. and Patwari, N. and Ji, M. and Kasera, Sneha K. and Bhaskara, A. and Durgin, Gregory D.",
+    title        = "Salt Lake City 3534 MHz Multi-Transmitter Measurement Campaign",
+    year         = "2024",
+    month        = "March",
+    howpublished = {\url{https://github.com/serhatadik/slc-3534MHz-meas}},
+
+}
+```
