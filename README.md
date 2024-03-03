@@ -1,4 +1,4 @@
-# 3534 MHz Narrowband Measurement Campaign
+# Salt Lake City 3533.89 - 3534.11 MHz Multi-Transmitter Measurement Campaign
 
 ## Description
 The dataset for 3534 MHz narrowband measurement campaign in json format. Please see https://docs.google.com/presentation/d/1uisWySmkMuHB8V5RjwVS0rMU_LtY-mD7X9nGiY8x1O0/edit?usp=sharing for details on transmission parameters, resulting power distributions, staionary and rotational fading analysis, and some research ideas.
