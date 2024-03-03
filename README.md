@@ -25,7 +25,6 @@ If you use this data in your research, please cite it:
     title        = "Salt Lake City 3534 MHz Multi-Transmitter Measurement Campaign",
     year         = "2024",
     month        = "March",
-    howpublished = {\url{https://github.com/serhatadik/slc-3534MHz-meas}},
-
+    howpublished = {\url{https://github.com/serhatadik/slc-3534MHz-meas}}
 }
 ```
