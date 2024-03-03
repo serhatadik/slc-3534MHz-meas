@@ -1,7 +1,7 @@
 # Salt Lake City 3533.89 - 3534.11 MHz Multi-Transmitter Measurement Campaign
 
 ## Description
-The dataset for 3534 MHz narrowband measurement campaign in json format. Please see https://docs.google.com/presentation/d/1uisWySmkMuHB8V5RjwVS0rMU_LtY-mD7X9nGiY8x1O0/edit?usp=sharing for details on transmission parameters, resulting power distributions, staionary and rotational fading analysis, and some research ideas.
+Please see https://docs.google.com/presentation/d/1uisWySmkMuHB8V5RjwVS0rMU_LtY-mD7X9nGiY8x1O0/edit?usp=sharing for details on transmission parameters, resulting power distributions, stationary and rotational fading analysis, and some research ideas.
 
 ## Json File
 The JSON file is designed with a straightforward and efficient structure. At the highest level, the file is organized by timestamps, each key representing the precise moment of data collection, accurate to the second. Within each of these timestamp keys, there are two primary sub-keys: one for the core data and another for associated metadata.
