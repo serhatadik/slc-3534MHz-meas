@@ -17,6 +17,7 @@ The main data is stored under the key "pow_rx_tx", and it comprises five numeric
 The metadata section of the JSON file focuses on a singular piece of information associated with each timestamp. Specifically, it denotes the mode of data collection for the corresponding file, indicating whether the data was gathered while the collector was walking or driving.
 
 ## Citation
+If you use this data in your research, please cite it:
 
 ```
 @misc{tadikmeas2024,
